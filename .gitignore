@@ -1,4 +1,4 @@
 # Project files
 *.xcodeproj
-*.cworkspace
+*.xcworkspace
 Pods/
