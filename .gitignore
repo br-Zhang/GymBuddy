@@ -1,0 +1,4 @@
+# Project files
+*.xcodeproj
+*.cworkspace
+Pods/
